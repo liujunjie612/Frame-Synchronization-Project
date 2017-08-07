@@ -1,0 +1,18 @@
+2017-07-27 14:47:16,455 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:17,922 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:47:18,386 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:18,866 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:47:20,125 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:20,573 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:20,606 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:47:21,037 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:47:21,301 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:21,799 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:47:23,472 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:23,720 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:23,903 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:23,952 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:47:24,101 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:47:24,217 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:47:24,400 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:47:24,599 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived

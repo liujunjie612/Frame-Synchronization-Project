@@ -1,0 +1,474 @@
+2017-07-27 14:52:16,700 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:17,831 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:17,898 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:52:17,914 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:52:18,031 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:18,032 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:52:18,214 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:18,215 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:52:18,231 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:52:18,980 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:52:18,981 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:52:21,013 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:21,013 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:52:21,363 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:21,363 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:52:21,480 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:52:21,846 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:52:25,528 [1] DEBUG NetworkManager [(null)] - Connecting to server
+2017-07-27 14:52:25,828 [1] DEBUG NetworkManager [(null)] - Register Player All called for 0
+2017-07-27 14:52:25,829 [1] DEBUG NetworkManager [(null)] - Register Player All called for 1
+2017-07-27 14:52:25,829 [1] DEBUG LockStepManager [(null)] - Player 0 is ready to start the game.
+2017-07-27 14:52:25,830 [1] DEBUG LockStepManager [(null)] - GameStart called. My PlayerID: 1
+2017-07-27 14:52:25,861 [1] DEBUG LockStepManager [(null)] - All players are ready to start. Starting Game.
+2017-07-27 14:52:25,928 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:52:25,951 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 1
+2017-07-27 14:52:26,127 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 1
+2017-07-27 14:52:26,128 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 2
+2017-07-27 14:52:26,327 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 2
+2017-07-27 14:52:26,327 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 3
+2017-07-27 14:52:26,527 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 3
+2017-07-27 14:52:26,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 4
+2017-07-27 14:52:26,727 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 4
+2017-07-27 14:52:26,727 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 5
+2017-07-27 14:52:26,926 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 5
+2017-07-27 14:52:26,927 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 6
+2017-07-27 14:52:27,127 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 6
+2017-07-27 14:52:27,127 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 7
+2017-07-27 14:52:27,326 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 7
+2017-07-27 14:52:27,327 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 8
+2017-07-27 14:52:27,526 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 8
+2017-07-27 14:52:27,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 9
+2017-07-27 14:52:27,726 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 9
+2017-07-27 14:52:27,727 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 10
+2017-07-27 14:52:27,926 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 10
+2017-07-27 14:52:27,927 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 11
+2017-07-27 14:52:28,126 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 11
+2017-07-27 14:52:28,126 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 12
+2017-07-27 14:52:28,326 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 12
+2017-07-27 14:52:28,326 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 13
+2017-07-27 14:52:28,526 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 13
+2017-07-27 14:52:28,526 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 14
+2017-07-27 14:52:28,726 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 14
+2017-07-27 14:52:28,727 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 15
+2017-07-27 14:52:28,926 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 15
+2017-07-27 14:52:28,926 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 16
+2017-07-27 14:52:29,126 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 16
+2017-07-27 14:52:29,126 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 17
+2017-07-27 14:52:29,326 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 17
+2017-07-27 14:52:29,326 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 18
+2017-07-27 14:52:29,526 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 18
+2017-07-27 14:52:29,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 19
+2017-07-27 14:52:29,725 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 19
+2017-07-27 14:52:29,726 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 20
+2017-07-27 14:52:29,925 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 20
+2017-07-27 14:52:29,926 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 21
+2017-07-27 14:52:30,126 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 21
+2017-07-27 14:52:30,126 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 22
+2017-07-27 14:52:30,325 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 22
+2017-07-27 14:52:30,326 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 23
+2017-07-27 14:52:30,547 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 23
+2017-07-27 14:52:30,547 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 24
+2017-07-27 14:52:30,712 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 24
+2017-07-27 14:52:30,713 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 25
+2017-07-27 14:52:30,931 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 25
+2017-07-27 14:52:30,931 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 26
+2017-07-27 14:52:31,125 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 26
+2017-07-27 14:52:31,125 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 27
+2017-07-27 14:52:31,326 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 27
+2017-07-27 14:52:31,326 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 28
+2017-07-27 14:52:31,525 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 28
+2017-07-27 14:52:31,525 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 29
+2017-07-27 14:52:31,725 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 29
+2017-07-27 14:52:31,725 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 30
+2017-07-27 14:52:31,925 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 30
+2017-07-27 14:52:31,925 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 31
+2017-07-27 14:52:32,124 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 31
+2017-07-27 14:52:32,124 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 32
+2017-07-27 14:52:32,324 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 32
+2017-07-27 14:52:32,325 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 33
+2017-07-27 14:52:32,524 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 33
+2017-07-27 14:52:32,524 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 34
+2017-07-27 14:52:32,725 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 34
+2017-07-27 14:52:32,725 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 35
+2017-07-27 14:52:32,924 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 35
+2017-07-27 14:52:32,924 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 36
+2017-07-27 14:52:33,125 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 36
+2017-07-27 14:52:33,125 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 37
+2017-07-27 14:52:33,324 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 37
+2017-07-27 14:52:33,324 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 38
+2017-07-27 14:52:33,523 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 38
+2017-07-27 14:52:33,524 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 39
+2017-07-27 14:52:33,724 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 39
+2017-07-27 14:52:33,724 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 40
+2017-07-27 14:52:33,924 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 40
+2017-07-27 14:52:33,924 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 41
+2017-07-27 14:52:34,124 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 41
+2017-07-27 14:52:34,124 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 42
+2017-07-27 14:52:34,324 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 42
+2017-07-27 14:52:34,324 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 43
+2017-07-27 14:52:34,523 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 43
+2017-07-27 14:52:34,524 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 44
+2017-07-27 14:52:34,727 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 44
+2017-07-27 14:52:34,727 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 45
+2017-07-27 14:52:34,924 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 45
+2017-07-27 14:52:34,924 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 46
+2017-07-27 14:52:35,124 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 46
+2017-07-27 14:52:35,124 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 47
+2017-07-27 14:52:35,323 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 47
+2017-07-27 14:52:35,323 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 48
+2017-07-27 14:52:35,514 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 48
+2017-07-27 14:52:35,514 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 49
+2017-07-27 14:52:35,722 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 49
+2017-07-27 14:52:35,723 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 50
+2017-07-27 14:52:35,930 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 50
+2017-07-27 14:52:35,930 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 51
+2017-07-27 14:52:36,123 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 51
+2017-07-27 14:52:36,123 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 52
+2017-07-27 14:52:36,323 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 52
+2017-07-27 14:52:36,323 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 53
+2017-07-27 14:52:36,523 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 53
+2017-07-27 14:52:36,523 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 54
+2017-07-27 14:52:36,723 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 54
+2017-07-27 14:52:36,723 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 55
+2017-07-27 14:52:36,923 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 55
+2017-07-27 14:52:36,923 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 56
+2017-07-27 14:52:37,122 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 56
+2017-07-27 14:52:37,122 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 57
+2017-07-27 14:52:37,322 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 57
+2017-07-27 14:52:37,322 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 58
+2017-07-27 14:52:37,522 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 58
+2017-07-27 14:52:37,522 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 59
+2017-07-27 14:52:37,722 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 59
+2017-07-27 14:52:37,722 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 60
+2017-07-27 14:52:37,921 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 60
+2017-07-27 14:52:37,922 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 61
+2017-07-27 14:52:38,123 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 61
+2017-07-27 14:52:38,123 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 62
+2017-07-27 14:52:38,321 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 62
+2017-07-27 14:52:38,322 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 63
+2017-07-27 14:52:38,521 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 63
+2017-07-27 14:52:38,522 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 64
+2017-07-27 14:52:38,721 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 64
+2017-07-27 14:52:38,722 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 65
+2017-07-27 14:52:38,921 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 65
+2017-07-27 14:52:38,921 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 66
+2017-07-27 14:52:39,123 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 66
+2017-07-27 14:52:39,123 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 67
+2017-07-27 14:52:39,321 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 67
+2017-07-27 14:52:39,322 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 68
+2017-07-27 14:52:39,521 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 68
+2017-07-27 14:52:39,521 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 69
+2017-07-27 14:52:39,722 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 69
+2017-07-27 14:52:39,722 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 70
+2017-07-27 14:52:39,921 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 70
+2017-07-27 14:52:39,922 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 71
+2017-07-27 14:52:40,122 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 71
+2017-07-27 14:52:40,122 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 72
+2017-07-27 14:52:40,321 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 72
+2017-07-27 14:52:40,321 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 73
+2017-07-27 14:52:40,521 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 73
+2017-07-27 14:52:40,521 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 74
+2017-07-27 14:52:40,720 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 74
+2017-07-27 14:52:40,721 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 75
+2017-07-27 14:52:40,920 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 75
+2017-07-27 14:52:40,920 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 76
+2017-07-27 14:52:41,120 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 76
+2017-07-27 14:52:41,120 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 77
+2017-07-27 14:52:41,321 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 77
+2017-07-27 14:52:41,321 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 78
+2017-07-27 14:52:41,520 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 78
+2017-07-27 14:52:41,520 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 79
+2017-07-27 14:52:41,720 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 79
+2017-07-27 14:52:41,720 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 80
+2017-07-27 14:52:41,920 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 80
+2017-07-27 14:52:41,920 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 81
+2017-07-27 14:52:42,120 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 81
+2017-07-27 14:52:42,120 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 82
+2017-07-27 14:52:42,320 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 82
+2017-07-27 14:52:42,320 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 83
+2017-07-27 14:52:42,520 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 83
+2017-07-27 14:52:42,521 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 84
+2017-07-27 14:52:42,720 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 84
+2017-07-27 14:52:42,720 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 85
+2017-07-27 14:52:42,919 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 85
+2017-07-27 14:52:42,920 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 86
+2017-07-27 14:52:43,119 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 86
+2017-07-27 14:52:43,120 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 87
+2017-07-27 14:52:43,319 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 87
+2017-07-27 14:52:43,319 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 88
+2017-07-27 14:52:43,519 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 88
+2017-07-27 14:52:43,519 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 89
+2017-07-27 14:52:43,719 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 89
+2017-07-27 14:52:43,720 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 90
+2017-07-27 14:52:43,920 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 90
+2017-07-27 14:52:43,920 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 91
+2017-07-27 14:52:44,119 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 91
+2017-07-27 14:52:44,120 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 92
+2017-07-27 14:52:44,319 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 92
+2017-07-27 14:52:44,320 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 93
+2017-07-27 14:52:44,519 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 93
+2017-07-27 14:52:44,519 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 94
+2017-07-27 14:52:44,719 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 94
+2017-07-27 14:52:44,719 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 95
+2017-07-27 14:52:44,919 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 95
+2017-07-27 14:52:44,920 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 96
+2017-07-27 14:52:45,119 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 96
+2017-07-27 14:52:45,119 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 97
+2017-07-27 14:52:45,318 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 97
+2017-07-27 14:52:45,319 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 98
+2017-07-27 14:52:45,519 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 98
+2017-07-27 14:52:45,519 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 99
+2017-07-27 14:52:45,718 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 99
+2017-07-27 14:52:45,719 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 100
+2017-07-27 14:52:45,918 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 100
+2017-07-27 14:52:45,919 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 101
+2017-07-27 14:52:46,118 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 101
+2017-07-27 14:52:46,118 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 102
+2017-07-27 14:52:46,318 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 102
+2017-07-27 14:52:46,319 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 103
+2017-07-27 14:52:46,518 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 103
+2017-07-27 14:52:46,519 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 104
+2017-07-27 14:52:46,717 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 104
+2017-07-27 14:52:46,718 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 105
+2017-07-27 14:52:46,918 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 105
+2017-07-27 14:52:46,919 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 106
+2017-07-27 14:52:47,118 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 106
+2017-07-27 14:52:47,118 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 107
+2017-07-27 14:52:47,318 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 107
+2017-07-27 14:52:47,319 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 108
+2017-07-27 14:52:47,518 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 108
+2017-07-27 14:52:47,518 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 109
+2017-07-27 14:52:47,718 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 109
+2017-07-27 14:52:47,719 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 110
+2017-07-27 14:52:47,917 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 110
+2017-07-27 14:52:47,917 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 111
+2017-07-27 14:52:48,117 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 111
+2017-07-27 14:52:48,118 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 112
+2017-07-27 14:52:48,317 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 112
+2017-07-27 14:52:48,317 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 113
+2017-07-27 14:52:48,517 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 113
+2017-07-27 14:52:48,518 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 114
+2017-07-27 14:52:48,717 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 114
+2017-07-27 14:52:48,717 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 115
+2017-07-27 14:52:48,917 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 115
+2017-07-27 14:52:48,917 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 116
+2017-07-27 14:52:49,117 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 116
+2017-07-27 14:52:49,117 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 117
+2017-07-27 14:52:49,318 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 117
+2017-07-27 14:52:49,319 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 118
+2017-07-27 14:52:49,518 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 118
+2017-07-27 14:52:49,518 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 119
+2017-07-27 14:52:49,717 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 119
+2017-07-27 14:52:49,717 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 120
+2017-07-27 14:52:49,917 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 120
+2017-07-27 14:52:49,917 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 121
+2017-07-27 14:52:50,117 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 121
+2017-07-27 14:52:50,117 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 122
+2017-07-27 14:52:50,316 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 122
+2017-07-27 14:52:50,317 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 123
+2017-07-27 14:52:50,516 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 123
+2017-07-27 14:52:50,516 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 124
+2017-07-27 14:52:50,716 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 124
+2017-07-27 14:52:50,717 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 125
+2017-07-27 14:52:50,916 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 125
+2017-07-27 14:52:50,917 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 126
+2017-07-27 14:52:51,116 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 126
+2017-07-27 14:52:51,117 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 127
+2017-07-27 14:52:51,316 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 127
+2017-07-27 14:52:51,316 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 128
+2017-07-27 14:52:51,516 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 128
+2017-07-27 14:52:51,516 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 129
+2017-07-27 14:52:51,717 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 129
+2017-07-27 14:52:51,717 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 130
+2017-07-27 14:52:51,916 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 130
+2017-07-27 14:52:51,917 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 131
+2017-07-27 14:52:52,115 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 131
+2017-07-27 14:52:52,116 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 132
+2017-07-27 14:52:52,318 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 132
+2017-07-27 14:52:52,318 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 133
+2017-07-27 14:52:52,516 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 133
+2017-07-27 14:52:52,516 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 134
+2017-07-27 14:52:52,716 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 134
+2017-07-27 14:52:52,716 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 135
+2017-07-27 14:52:52,915 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 135
+2017-07-27 14:52:52,916 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 136
+2017-07-27 14:52:53,115 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 136
+2017-07-27 14:52:53,116 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 137
+2017-07-27 14:52:53,315 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 137
+2017-07-27 14:52:53,316 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 138
+2017-07-27 14:52:53,514 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 138
+2017-07-27 14:52:53,516 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 139
+2017-07-27 14:52:53,715 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 139
+2017-07-27 14:52:53,715 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 140
+2017-07-27 14:52:53,914 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 140
+2017-07-27 14:52:53,915 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 141
+2017-07-27 14:52:54,114 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 141
+2017-07-27 14:52:54,115 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 142
+2017-07-27 14:52:54,315 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 142
+2017-07-27 14:52:54,315 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 143
+2017-07-27 14:52:54,514 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 143
+2017-07-27 14:52:54,515 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 144
+2017-07-27 14:52:54,714 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 144
+2017-07-27 14:52:54,715 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 145
+2017-07-27 14:52:54,914 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 145
+2017-07-27 14:52:54,915 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 146
+2017-07-27 14:52:55,114 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 146
+2017-07-27 14:52:55,115 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 147
+2017-07-27 14:52:55,316 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 147
+2017-07-27 14:52:55,316 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 148
+2017-07-27 14:52:55,515 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 148
+2017-07-27 14:52:55,515 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 149
+2017-07-27 14:52:55,715 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 149
+2017-07-27 14:52:55,715 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 150
+2017-07-27 14:52:55,914 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 150
+2017-07-27 14:52:55,915 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 151
+2017-07-27 14:52:56,113 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 151
+2017-07-27 14:52:56,114 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 152
+2017-07-27 14:52:56,313 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 152
+2017-07-27 14:52:56,314 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 153
+2017-07-27 14:52:56,513 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 153
+2017-07-27 14:52:56,514 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 154
+2017-07-27 14:52:56,713 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 154
+2017-07-27 14:52:56,713 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 155
+2017-07-27 14:52:56,913 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 155
+2017-07-27 14:52:56,914 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 156
+2017-07-27 14:52:57,113 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 156
+2017-07-27 14:52:57,114 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 157
+2017-07-27 14:52:57,313 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 157
+2017-07-27 14:52:57,314 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 158
+2017-07-27 14:52:57,513 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 158
+2017-07-27 14:52:57,514 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 159
+2017-07-27 14:52:57,713 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 159
+2017-07-27 14:52:57,713 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 160
+2017-07-27 14:52:57,913 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 160
+2017-07-27 14:52:57,913 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 161
+2017-07-27 14:52:58,112 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 161
+2017-07-27 14:52:58,113 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 162
+2017-07-27 14:52:58,312 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 162
+2017-07-27 14:52:58,314 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 163
+2017-07-27 14:52:58,512 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 163
+2017-07-27 14:52:58,513 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 164
+2017-07-27 14:52:58,712 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 164
+2017-07-27 14:52:58,713 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 165
+2017-07-27 14:52:58,912 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 165
+2017-07-27 14:52:58,913 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 166
+2017-07-27 14:52:59,112 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 166
+2017-07-27 14:52:59,113 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 167
+2017-07-27 14:52:59,312 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 167
+2017-07-27 14:52:59,313 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 168
+2017-07-27 14:52:59,511 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 168
+2017-07-27 14:52:59,512 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 169
+2017-07-27 14:52:59,711 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 169
+2017-07-27 14:52:59,712 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 170
+2017-07-27 14:52:59,912 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 170
+2017-07-27 14:52:59,913 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 171
+2017-07-27 14:53:00,111 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 171
+2017-07-27 14:53:00,112 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 172
+2017-07-27 14:53:00,312 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 172
+2017-07-27 14:53:00,312 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 173
+2017-07-27 14:53:00,511 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 173
+2017-07-27 14:53:00,519 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 174
+2017-07-27 14:53:00,711 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 174
+2017-07-27 14:53:00,712 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 175
+2017-07-27 14:53:00,928 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 175
+2017-07-27 14:53:00,929 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 176
+2017-07-27 14:53:01,111 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 176
+2017-07-27 14:53:01,112 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 177
+2017-07-27 14:53:01,311 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 177
+2017-07-27 14:53:01,312 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 178
+2017-07-27 14:53:01,511 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 178
+2017-07-27 14:53:01,511 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 179
+2017-07-27 14:53:01,727 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 179
+2017-07-27 14:53:01,728 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 180
+2017-07-27 14:53:01,928 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 180
+2017-07-27 14:53:01,928 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 181
+2017-07-27 14:53:02,127 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 181
+2017-07-27 14:53:02,128 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 182
+2017-07-27 14:53:02,327 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 182
+2017-07-27 14:53:02,328 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 183
+2017-07-27 14:53:02,527 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 183
+2017-07-27 14:53:02,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 184
+2017-07-27 14:53:02,727 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 184
+2017-07-27 14:53:02,727 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 185
+2017-07-27 14:53:02,911 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 185
+2017-07-27 14:53:02,912 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 186
+2017-07-27 14:53:03,126 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 186
+2017-07-27 14:53:03,127 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 187
+2017-07-27 14:53:03,328 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 187
+2017-07-27 14:53:03,328 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 188
+2017-07-27 14:53:03,526 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 188
+2017-07-27 14:53:03,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 189
+2017-07-27 14:53:03,726 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 189
+2017-07-27 14:53:03,727 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 190
+2017-07-27 14:53:03,927 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 190
+2017-07-27 14:53:03,927 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 191
+2017-07-27 14:53:04,127 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 191
+2017-07-27 14:53:04,128 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 192
+2017-07-27 14:53:04,327 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 192
+2017-07-27 14:53:04,327 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 193
+2017-07-27 14:53:04,526 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 193
+2017-07-27 14:53:04,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 194
+2017-07-27 14:53:04,727 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 194
+2017-07-27 14:53:04,727 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 195
+2017-07-27 14:53:04,927 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 195
+2017-07-27 14:53:04,928 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 196
+2017-07-27 14:53:05,127 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 196
+2017-07-27 14:53:05,127 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 197
+2017-07-27 14:53:05,327 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 197
+2017-07-27 14:53:05,327 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 198
+2017-07-27 14:53:05,526 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 198
+2017-07-27 14:53:05,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 199
+2017-07-27 14:53:05,726 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 199
+2017-07-27 14:53:05,726 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 200
+2017-07-27 14:53:05,926 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 200
+2017-07-27 14:53:05,927 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 201
+2017-07-27 14:53:06,127 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 201
+2017-07-27 14:53:06,128 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 202
+2017-07-27 14:53:06,326 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 202
+2017-07-27 14:53:06,326 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 203
+2017-07-27 14:53:06,527 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 203
+2017-07-27 14:53:06,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 204
+2017-07-27 14:53:06,726 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 204
+2017-07-27 14:53:06,726 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 205
+2017-07-27 14:53:06,926 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 205
+2017-07-27 14:53:06,926 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 206
+2017-07-27 14:53:07,127 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 206
+2017-07-27 14:53:07,127 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 207
+2017-07-27 14:53:07,325 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 207
+2017-07-27 14:53:07,326 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 208
+2017-07-27 14:53:07,527 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 208
+2017-07-27 14:53:07,527 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 209
+2017-07-27 14:53:07,726 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 209
+2017-07-27 14:53:07,726 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 210
+2017-07-27 14:53:07,931 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 210
+2017-07-27 14:53:07,931 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 211
+2017-07-27 14:53:08,126 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 211
+2017-07-27 14:53:08,126 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 212
+2017-07-27 14:53:08,325 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 212
+2017-07-27 14:53:08,325 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 213
+2017-07-27 14:53:08,525 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 213
+2017-07-27 14:53:08,525 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 214
+2017-07-27 14:53:08,725 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 214
+2017-07-27 14:53:08,726 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 215
+2017-07-27 14:53:08,925 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 215
+2017-07-27 14:53:08,925 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 216
+2017-07-27 14:53:09,125 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 216
+2017-07-27 14:53:09,125 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 217
+2017-07-27 14:53:09,325 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 217
+2017-07-27 14:53:09,325 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 218
+2017-07-27 14:53:09,524 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 218
+2017-07-27 14:53:09,525 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 219
+2017-07-27 14:53:09,724 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 219
+2017-07-27 14:53:09,724 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 220
+2017-07-27 14:53:09,924 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 220
+2017-07-27 14:53:09,925 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 221
+2017-07-27 14:53:10,125 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 221
+2017-07-27 14:53:10,125 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 222
+2017-07-27 14:53:10,324 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 222
+2017-07-27 14:53:10,324 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 223
+2017-07-27 14:53:10,525 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 223
+2017-07-27 14:53:10,525 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 224
+2017-07-27 14:53:10,724 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 224
+2017-07-27 14:53:10,724 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 225
+2017-07-27 14:53:10,906 [1] DEBUG NetworkManager [(null)] - Successfully diconnected from the server

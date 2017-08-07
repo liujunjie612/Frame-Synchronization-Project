@@ -1,0 +1,126 @@
+2017-07-27 14:48:02,814 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:03,463 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:03,663 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:03,828 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:03,993 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:04,159 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:04,292 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:04,293 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:04,441 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:04,457 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:04,623 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:04,739 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:04,822 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:04,888 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:05,005 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:05,071 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:05,154 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:05,253 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:05,303 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:05,435 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:05,469 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:05,601 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:05,618 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:48:05,733 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:05,933 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:06,065 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:48:11,234 [1] DEBUG NetworkManager [(null)] - Starting Server
+2017-07-27 14:48:11,235 [1] DEBUG NetworkManager [(null)] - startServer called
+2017-07-27 14:48:11,501 [1] DEBUG NetworkManager [(null)] - Server initialized
+2017-07-27 14:48:11,502 [1] DEBUG NetworkManager [(null)] - Expected player count : 2
+2017-07-27 14:48:13,436 [1] DEBUG NetworkManager [(null)] - Master Server Event: RegistrationSucceeded
+2017-07-27 14:48:14,547 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,563 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,579 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,596 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,612 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,629 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,645 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,662 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,679 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,695 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,713 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,729 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,746 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,762 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,779 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,795 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,812 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,829 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,845 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,862 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,878 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,895 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,912 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,928 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,945 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,962 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,978 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:14,994 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,011 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,027 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,044 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,061 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,077 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,094 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,110 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,127 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,143 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,160 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,177 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,193 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,210 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,227 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,243 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,260 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,276 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,293 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,309 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,326 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,342 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,359 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,376 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,393 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,409 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,425 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,442 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,458 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,475 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,491 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,508 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:15,525 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,142 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,159 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,175 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,192 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,208 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,225 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,241 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,259 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,275 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,292 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,309 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,325 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,342 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,359 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,375 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,391 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,409 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,425 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,441 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,458 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,474 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,491 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,508 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,524 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,540 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,558 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,575 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,592 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,608 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,625 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,641 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,658 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,674 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:18,691 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:48:35,994 [1] DEBUG NetworkManager [(null)] - Local server connection disconnected

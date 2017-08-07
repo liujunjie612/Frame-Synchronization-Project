@@ -1,0 +1,88 @@
+2017-07-27 14:53:23,601 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:26,083 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:33,813 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:34,246 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:34,912 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:35,161 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:35,378 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:35,762 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:35,945 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:36,113 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:36,295 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:36,577 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:36,578 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:36,578 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:36,578 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:36,578 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:36,578 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:36,728 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:52,887 [1] DEBUG NetworkManager [(null)] - Starting Server
+2017-07-27 14:53:52,887 [1] DEBUG NetworkManager [(null)] - startServer called
+2017-07-27 14:53:53,148 [1] DEBUG NetworkManager [(null)] - Server initialized
+2017-07-27 14:53:53,148 [1] DEBUG NetworkManager [(null)] - Expected player count : 2
+2017-07-27 14:53:54,570 [1] DEBUG NetworkManager [(null)] - Master Server Event: RegistrationSucceeded
+2017-07-27 14:54:14,045 [1] DEBUG NetworkManager [(null)] - OnPlayerConnected, playerID:1
+2017-07-27 14:54:14,045 [1] DEBUG NetworkManager [(null)] - Player Count : 2
+2017-07-27 14:54:14,046 [1] DEBUG NetworkManager [(null)] - Calling RegisterPlayerAll...
+2017-07-27 14:54:14,046 [1] DEBUG NetworkManager [(null)] - Calling RegisterPlayerAll...
+2017-07-27 14:54:14,046 [1] DEBUG LockStepManager [(null)] - GameStart called. My PlayerID: 0
+2017-07-27 14:54:14,079 [1] DEBUG LockStepManager [(null)] - Server Message: Player 1 is confirming Player 0 is ready to start the game.
+2017-07-27 14:54:14,079 [1] DEBUG LockStepManager [(null)] - Player 1 is ready to start the game.
+2017-07-27 14:54:14,079 [1] DEBUG LockStepManager [(null)] - Server Message: Player 0 is confirming Player 1 is ready to start the game.
+2017-07-27 14:54:14,079 [1] DEBUG LockStepManager [(null)] - All players are ready to start. Starting Game.
+2017-07-27 14:54:14,129 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 0
+2017-07-27 14:54:14,150 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 1
+2017-07-27 14:54:14,344 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 1
+2017-07-27 14:54:14,345 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 2
+2017-07-27 14:54:14,544 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 2
+2017-07-27 14:54:14,544 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 3
+2017-07-27 14:54:14,744 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 3
+2017-07-27 14:54:14,744 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 4
+2017-07-27 14:54:14,944 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 4
+2017-07-27 14:54:14,944 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 5
+2017-07-27 14:54:15,078 [1] DEBUG NetworkManager [(null)] - Master Server Event: RegistrationSucceeded
+2017-07-27 14:54:15,144 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 5
+2017-07-27 14:54:15,144 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 6
+2017-07-27 14:54:15,343 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 6
+2017-07-27 14:54:15,344 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 7
+2017-07-27 14:54:15,544 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 7
+2017-07-27 14:54:15,544 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 8
+2017-07-27 14:54:15,743 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 8
+2017-07-27 14:54:15,744 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 9
+2017-07-27 14:54:15,943 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 9
+2017-07-27 14:54:15,944 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 10
+2017-07-27 14:54:16,143 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 10
+2017-07-27 14:54:16,144 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 11
+2017-07-27 14:54:16,344 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 11
+2017-07-27 14:54:16,344 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 12
+2017-07-27 14:54:16,543 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 12
+2017-07-27 14:54:16,544 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 13
+2017-07-27 14:54:16,743 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 13
+2017-07-27 14:54:16,744 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 14
+2017-07-27 14:54:16,943 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 14
+2017-07-27 14:54:16,943 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 15
+2017-07-27 14:54:17,144 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 15
+2017-07-27 14:54:17,144 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 16
+2017-07-27 14:54:17,343 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 16
+2017-07-27 14:54:17,343 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 17
+2017-07-27 14:54:17,543 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 17
+2017-07-27 14:54:17,543 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 18
+2017-07-27 14:54:17,743 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 18
+2017-07-27 14:54:17,743 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 19
+2017-07-27 14:54:17,944 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 19
+2017-07-27 14:54:17,944 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 20
+2017-07-27 14:54:18,143 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 20
+2017-07-27 14:54:18,143 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 21
+2017-07-27 14:54:18,343 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 21
+2017-07-27 14:54:18,344 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 22
+2017-07-27 14:54:18,543 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 22
+2017-07-27 14:54:18,543 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 23
+2017-07-27 14:54:18,743 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 23
+2017-07-27 14:54:18,743 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 24
+2017-07-27 14:54:18,943 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 24
+2017-07-27 14:54:18,943 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 25
+2017-07-27 14:54:19,143 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 25
+2017-07-27 14:54:19,143 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 26
+2017-07-27 14:54:19,343 [1] DEBUG LockStepManager [(null)] - LockStepTurnID: 26
+2017-07-27 14:54:19,343 [1] DEBUG LockStepManager [(null)] - Sent NoAction action for turn 27
+2017-07-27 14:54:19,677 [1] DEBUG NetworkManager [(null)] - Local server connection disconnected

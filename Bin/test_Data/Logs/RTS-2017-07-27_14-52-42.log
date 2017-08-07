@@ -1,0 +1,25 @@
+2017-07-27 14:52:44,737 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:48,402 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:52:48,418 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:52:56,331 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:56,332 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:52:56,747 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:52:59,563 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:59,564 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:52:59,913 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:52:59,914 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:53:00,013 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:00,081 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:00,081 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:53:00,230 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:00,230 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:53:00,346 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:00,365 [1] DEBUG NetworkManager [(null)] - Refreshing Hosts
+2017-07-27 14:53:00,365 [1] DEBUG NetworkManager [(null)] - HostList Length: 1
+2017-07-27 14:53:00,529 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:00,663 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:00,780 [1] DEBUG NetworkManager [(null)] - Master Server Event: HostListReceived
+2017-07-27 14:53:04,327 [1] DEBUG NetworkManager [(null)] - Connecting to server
+2017-07-27 14:53:04,644 [1] DEBUG LockStepManager [(null)] - Player 0 is ready to start the game.
+2017-07-27 14:53:04,645 [1] DEBUG LockStepManager [(null)] - Player 1 is ready to start the game.
+2017-07-27 14:53:09,912 [1] DEBUG NetworkManager [(null)] - Successfully diconnected from the server
